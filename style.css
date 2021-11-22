@@ -78,4 +78,9 @@ i{
     justify-content: center;
     gap:20px;
     }
+    
+    .relogio{
+    font-size: 4em;
+    font-weight: bold;
+}
 }
