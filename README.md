@@ -2,8 +2,8 @@
 
 cronometro basico feito em html/css e javascrpt 
 
-Versão Desktop
+<p>Versão Desktop</p>
 <img src="cronometrodesk.png">
 
-Versão Mobile
+<p>Versão Mobile</p>
 <img src="cronometromobile.png">
